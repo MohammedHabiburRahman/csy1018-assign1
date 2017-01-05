@@ -3,7 +3,7 @@
 header {
 position:relative;
   font-family: 'Scope One', serif;
-  color: #0066ff;
+  color: #700d84;
   background: #fffff;
   text-align: center;
   padding: 8px;
@@ -12,33 +12,71 @@ position:relative;
   max-width: 100%;
 }
 
+header1 {
+position:relative;
+  font-family: 'Scope One', serif;
+  color: #700d84;
+  background: #fffff;
+  text-align:inherit;
+  padding: 8px;
+  font-size: 2em;
+  margin: 1px;
+  max-width: 100%;
+  text-decoration:underline;
+}
+
+p {
+position:relative;
+  font-family: 'Scope One', serif;
+  color: #700d84;
+  background: #fffff;
+  text-align: center;
+  padding: 8px;
+  font-size: 1.25em;
+  margin: 1px;
+  max-width: 100%;
+}
+
 img{
   width: 100%;
   height: auto;
+  margin:0px;
 }
 
 ul.navigation li {
-  float: left;
+  float:left;
+  text-align: left;
 }
 
 ul.navigation {
   list-style-type:none;
-  margin: 1;
-  padding: 1;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
-  background-color: #0066ff;
+  background-color: #700d84;
   text-align: center;
 }
 
 ul.navigation li a:hover{
-  background-color: #555;
+  background-color:grey;
 }
 
 ul.navigation li a {
   display: inline-block;
-  color:black;
+  color:white;
   text-align: center;
   padding: 5px;
   font-size:2em;
   font-family: 'Scope One', serif;
+}
+
+ul.grades li {
+  font-family: 'Scope One', serif;
+  color: #700d84;
+  background: #fffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 1.25em;
+  margin: 1px;
+  max-width: 100%;
 }
