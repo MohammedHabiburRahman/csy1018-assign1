@@ -1,4 +1,15 @@
 
+footer {
+position:relative;
+  font-family: 'Scope One', serif;
+  color: grey;
+  background: #700d84;
+  text-align: center;
+  padding: 8px;
+  font-size: 1em;
+  margin: 1px;
+  max-width: 100%;
+}
 
 header {
 position:relative;
