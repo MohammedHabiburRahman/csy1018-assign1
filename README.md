@@ -35,16 +35,43 @@ Another prototype is shown below. The reason I did not like this was because the
 ![](image/proto2.jpg)
 
 # Progression of Site
+I started the site on 28th November 2016. Here, I started my research on E-Portfolios and found good and bad elements to use or avoid for my own.
 
+1st December - 9th December 2016:
+I started my designs during this period and created my wireframes. Also, I completed my first prototype and experimented with some elements. Here, I started my second prototype and experimented with the text aspects of the site. I then started my final prototype which was my final site.
 
+I created my navigation bar on the 9th of December and had all of the pages working.
 
+10th December - 29th December 2016:
+From the 10th December, I worked on the site and created and filled in all of the pages. I got the main structure of the site completed and got all of the pages working. I also inserted images on 21st December and had them all working and looking professional.
 
-hours taken to complete
-report etc
+30th December 2016 - 13th January 2017:
+During this time, I finalised my site, cleaning up the code and adding the finishing touches to the site. I also made sure that all of the elements worked and that it all went well together.
+
+I finished the site on 14th January 2017. This was when all of the changes to the site were made and I was satisfied with the end product.
+
+Overall, it took me approximately 41 hours to complete the site. This was as the research stages and the prototypes/designs took up some time as finding the right combination was essential. Also, playing around with some of the code and getting it to work took up some time so that is why it took as long as it did.
+
 # Code Used from Other Sources
 Within my site, I used other code from external sources. these are referenced below.
 
 The code used for my form within the contact page was taken from an external website. This is shown below.
+
+Webpage:
+
+Author of Webpage:
+123 ContactF
+
+Title of Webpage:
+Create an HTML Contact Form for Free
+
+Date Published:
+2008
+
+URL:
+https://www.123contactform.com/html-contact-form/
+
+Date Viewed: 21/12/2016
 ```
 <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
   <div class="row">
